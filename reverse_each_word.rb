@@ -1,3 +1,3 @@
-def reverse_each_word
-  puts { "Hello there, and how are you?" }.each.reverse
+def reverse_each_word(array)
+  new_array = array.split
 end
